@@ -7,6 +7,6 @@
 - ⚡ Fun fact: I am into music and fitness...
 
 <!---
-Actuarist-Phil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actuary-Phil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
